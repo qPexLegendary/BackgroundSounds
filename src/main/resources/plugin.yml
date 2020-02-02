@@ -1,0 +1,16 @@
+name: BackgroundSounds
+author: qPexLegendary
+api: 1.0.8
+version: 1.0.0
+main: ru.dragonestia.BackgroundSounds
+
+permissions:
+  backgroundsound:
+    default: op
+    children:
+      playsound:
+        default: op
+      removesound:
+        default: op
+      bindsound:
+        default: op

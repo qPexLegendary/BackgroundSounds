@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BackgroundSounds">
+    <output-path>$PROJECT_DIR$/out/artifacts/BackgroundSounds</output-path>
+    <root id="archive" name="BackgroundSounds.jar">
+      <element id="module-output" name="BackgroundSounds" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BackgroundSounds" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af09809c-9042-40d2-9c00-40d754976385" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/BackgroundSounds.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackgroundSounds.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/BackgroundSounds/BackgroundSounds.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/dragonestia/BackgroundSounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/dragonestia/commands/BindSoundCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/dragonestia/commands/PlaySoundCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/dragonestia/commands/RemoveSoundsCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/dragonestia/BackgroundSounds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/dragonestia/commands/BindSoundCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/dragonestia/commands/PlaySoundCommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/dragonestia/commands/RemoveSoundsCommand.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XEyBTiN07yA08prYestM79iBJW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af09809c-9042-40d2-9c00-40d754976385" name="Default Changelist" comment="" />
+      <created>1580625412178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580625412178</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1580631355267">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1580631355267" />
+    <state x="135" y="134" key="SettingsEditor" timestamp="1580637389650">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="135" y="134" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1580637389650" />
+  </component>
+</project>
